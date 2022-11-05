@@ -20,6 +20,11 @@
 -     It will be up to the content creator to disclose whether they will allow the consumer life time access that that spacific content or for 1,2,3,4,5 time use or for a month or so. In this model though we encourage content creators to provide ease of access to the content, by let's say low trades for the content in question. Like only one page of content, or access to the content for 1 day. 
 
 -     Help us build the white board. Here is where people will find new content creators. 
+
+- Where do we plan on taking this platform?
+               To the ThreeFold Grid. We plan to completely decentralizing this project. 
+               
+- Thank you for contributing to the project. As I would like to prevent muliciouse activity on this platform, I will be also trading this access for 1% of the DGB pots. 
    
 <!---
 dgbU/dgbU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
