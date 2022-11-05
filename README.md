@@ -17,7 +17,7 @@
 -     How will content creators be rewarded with DGB?
           Here we go to a model were people trade DGB for the content they would like to consume.
           
--     It will be up to the content creator to disclose whether they will allow the consumer life time access that that spacific content or for 1,2,3,4,5 time use or for a month or so. In this model though we incurage contain creators to provide ease of access to the content, by let's say low trades for the content in question. Like only one, page of content, or access to the content for 1 day. 
+-     It will be up to the content creator to disclose whether they will allow the consumer life time access that that spacific content or for 1,2,3,4,5 time use or for a month or so. In this model though we encourage content creators to provide ease of access to the content, by let's say low trades for the content in question. Like only one page of content, or access to the content for 1 day. 
 
 -     Help us build the white board. Here is where people will find new content creators. 
    
