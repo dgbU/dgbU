@@ -24,7 +24,8 @@
 - Where do we plan on taking this platform?
                To the ThreeFold Grid. We plan to completely decentralizing this project. 
                
-- Thank you for contributing to the project. As I would like to prevent muliciouse activity on this platform, I will be also trading this access for 1% of the DGB pots. 
+- Thank you for contributing to the project. As I would like to prevent muliciouse activity on this platform, I will be also trading this access for 1% of the DGB pots. What does this all mean??
+                Premium Content.
    
 <!---
 dgbU/dgbU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
