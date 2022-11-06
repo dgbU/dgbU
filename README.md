@@ -1,5 +1,5 @@
 - 👋 Hi, 
--   This is the creator of Digibyte Unlimited here to say that this is just the begining. 
+-   Welcome the the digibyteunlimited.com repository. 
 
 -   Here in this repository we will be developing the ecosystem of ideas, starting with a decentralized white board. This white board will allow anyone in the world to contribute to this website.
 
