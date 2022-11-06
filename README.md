@@ -4,9 +4,9 @@
 -   Here in this repository we will be developing the ecosystem of ideas, starting with a decentralized white board. This white board will allow anyone in the world to contribute to this website.
 
 - 🌱 How will it work?
-        Digibyte Unlimited will change the current centralized model used throughout most of the world. Here we developers will automaticlly be rewarded for contributing to the website, WITH??? You guessed it, Digibyte!!!
+        Digibyte Unlimited will change the current centralized model used throughout most of the world. Here in this experimental project, we developers will automaticlly be rewarded for contributing to the website, WITH??? You guessed it, Digibyte!!!
         
--    How does a developer get rewarded by contribution? This is the beauty of the blockchain. In this model we are deploying the ecosystem where develepors build, content creaters provide and promote contant, and consumers get the contant they want by trading there Digibytes for that contant. 
+-    How does a developer get rewarded by contribution? This is the beauty of the blockchain. In this model we are deploying the ecosystem where develepors build, content creaters provide and promote contant, and consumers get the contant they want by trading there Digibytes for that content. 
 
 -    In this model developers will get rewarded by the system. The more you contribute to developement of Digibyte Unlimited, the more rewards you get. This is again an experimental decentralized project looking to develope future platforms for everyday use. Developer portian of the reward come from content creators who use your dedicated code to make there content available. 
 
