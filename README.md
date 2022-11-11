@@ -27,7 +27,7 @@
 - Thank you for contributing to the project. As I would like to prevent malicious activity on this platform, I will be also trading this access for 1% of the DGB pots. What does this all mean??
                 Premium Content.
                 
-DISCLOSURE Digibyte Unlimited is a social experiment. By using Digibyte Unlimited, you agree that you are not purchasing a security or investment contract and you agree to hold the team harmless and not liable for any losses or taxes you may incur. Although Digibyte Unlimited is a community driven and not a registered digital currency, business or corporation, always make sure that you are in compliance with local laws and regulations before you make any trades. Cryptocurrencies are not legal tender and are not investments. The use of Digibyte's DGB token, software, or other code is for experimental use. 
+DISCLOSURE Digibyte Unlimited is a social experiment. By using Digibyte Unlimited, you agree that you are not purchasing a security or investment contract and you agree to hold the team harmless and not liable for any losses or taxes you may incur. Although Digibyte Unlimited is a community driven and not a registered digital currency, business or corporation, always make sure that you are in compliance with local laws and regulations before you make any trades. Cryptocurrencies are not legal tender and are not investments. The use of Digibyte's DGB coin, software, or other code is for experimental use. 
 
    
 <!---
